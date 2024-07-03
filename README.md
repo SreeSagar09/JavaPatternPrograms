@@ -9,4 +9,13 @@ Enter Number:
 *****
 ******
 ----------------------------
+Program:Pattern2.java
+Output:
+Please Enter Number:
+5
+*****
+****
+***
+**
+*
 

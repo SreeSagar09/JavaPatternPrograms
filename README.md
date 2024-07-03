@@ -18,4 +18,17 @@ Please Enter Number:
 ***
 **
 *
+----------------------------
+Program:Pattern3.java
+Output:
+Please Enter Number:
+5
+     *
+    **
+   ***
+  ****
+ *****
+******
+
+
 

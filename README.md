@@ -40,6 +40,17 @@ Please Enter Number:
    ***
     **
      *
+--------------------------
+Program:Pattern5.java
+Output:
+Please Enter Number:
+5
+* * * * * * 
+* * * * * * 
+* * * * * * 
+* * * * * * 
+* * * * * * 
+* * * * * * 
 
 
 

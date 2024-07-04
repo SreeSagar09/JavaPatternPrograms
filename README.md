@@ -29,6 +29,17 @@ Please Enter Number:
   ****
  *****
 ******
+--------------------------
+Program:Pattern4.java
+Output:
+Please Enter Number:
+5
+******
+ *****
+  ****
+   ***
+    **
+     *
 
 
 

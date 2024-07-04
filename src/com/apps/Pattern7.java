@@ -70,5 +70,4 @@ public class Pattern7 {
 		System.out.println("Fourth Pattern");
 		Pattern7.printPattern4(n);
 	}
-
 }

@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Pattern4 {
 	public static void printPattern(int n) {
-		for(int i=0; i<=n; i++) {
-			for(int j=0; j<=n; j++) {
+		for(int i=1; i<=n; i++) {
+			for(int j=1; j<=n; j++) {
 				if(n-i>=n-j) {
 					System.out.print("*");
 				}else {

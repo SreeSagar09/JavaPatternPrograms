@@ -1,4 +1,4 @@
-Program:Pattern1.java
+Program: Pattern1.java
 Output:
 Please Enter Number:
 5
@@ -8,7 +8,7 @@ Please Enter Number:
 * * * * 
 * * * * * 
 ----------------------------
-Program:Pattern2.java
+Program: Pattern2.java
 Output:
 Please Enter Number:
 5
@@ -18,7 +18,7 @@ Please Enter Number:
 * * 
 * 
 ----------------------------
-Program:Pattern3.java
+Program: Pattern3.java
 Output:
 Please Enter Number:
 5
@@ -28,7 +28,7 @@ Please Enter Number:
   * * * * 
 * * * * * 
 --------------------------
-Program:Pattern4.java
+Program: Pattern4.java
 Output:
 Please Enter Number:
 5
@@ -38,7 +38,7 @@ Please Enter Number:
       * * 
         * 
 --------------------------
-Program:Pattern5.java
+Program: Pattern5.java
 Output:
 Please Enter Number:
 5
@@ -48,7 +48,7 @@ Please Enter Number:
 * * * * * 
 * * * * * 
 --------------------------
-Program:Pattern6.java
+Program: Pattern6.java
 Output:
 Please Enter Number:
 5
@@ -87,7 +87,7 @@ Fourth Pattern
         * 
         * 
 -----------------
-Program:Pattern8.java
+Program: Pattern8.java
 Output:
 Please Enter Number:
 5
@@ -104,7 +104,7 @@ Second Pattern
 4 4 4 4 
 5 5 5 5 5 
 -----------------------
-Program:Pattern9.java
+Program: Pattern9.java
 Output:
 Please Enter Number:
 5
@@ -121,7 +121,7 @@ Second Pattern
 4 4 
 5 
 -------------------------
-Program:Pattern10.java
+Program: Pattern10.java
 Output:
 Please Enter Number:
 5

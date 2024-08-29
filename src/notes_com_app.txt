@@ -8,6 +8,7 @@ Please Enter Number:
 * * * * 
 * * * * * 
 ----------------------------
+
 Program: Pattern2.java
 Output:
 Please Enter Number:
@@ -18,6 +19,7 @@ Please Enter Number:
 * * 
 * 
 ----------------------------
+
 Program: Pattern3.java
 Output:
 Please Enter Number:
@@ -28,6 +30,7 @@ Please Enter Number:
   * * * * 
 * * * * * 
 --------------------------
+
 Program: Pattern4.java
 Output:
 Please Enter Number:
@@ -38,6 +41,7 @@ Please Enter Number:
       * * 
         * 
 --------------------------
+
 Program: Pattern5.java
 Output:
 Please Enter Number:
@@ -48,6 +52,7 @@ Please Enter Number:
 * * * * * 
 * * * * * 
 --------------------------
+
 Program: Pattern6.java
 Output:
 Please Enter Number:
@@ -58,6 +63,7 @@ Please Enter Number:
 *       * 
 * * * * * 
 --------------------------
+
 Program:Pattern7.java
 Output:
 Please Enter Number:
@@ -87,6 +93,7 @@ Fourth Pattern
         * 
         * 
 -----------------
+
 Program: Pattern8.java
 Output:
 Please Enter Number:
@@ -104,6 +111,7 @@ Second Pattern
 4 4 4 4 
 5 5 5 5 5 
 -----------------------
+
 Program: Pattern9.java
 Output:
 Please Enter Number:
@@ -121,6 +129,7 @@ Second Pattern
 4 4 
 5 
 -------------------------
+
 Program: Pattern10.java
 Output:
 Please Enter Number:

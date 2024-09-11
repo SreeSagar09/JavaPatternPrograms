@@ -62,12 +62,12 @@ public class Pattern7 {
 		Scanner scanner = new Scanner(System.in);
 		int n = scanner.nextInt();
 		System.out.println("First Pattern");
-		Pattern7.printPattern1(n);
+		printPattern1(n);
 		System.out.println("Second Pattern");
-		Pattern7.printPattern2(n);
+		printPattern2(n);
 		System.out.println("Third Pattern");
-		Pattern7.printPattern3(n);
+		printPattern3(n);
 		System.out.println("Fourth Pattern");
-		Pattern7.printPattern4(n);
+		printPattern4(n);
 	}
 }

@@ -131,6 +131,7 @@ Second Pattern
 -------------------------
 
 Program: Pattern10.java
+Note: Asked in Zoho
 Output:
 Please Enter Number:
 5
@@ -139,3 +140,99 @@ Please Enter Number:
 3 4 5 1 2 
 4 5 1 2 3 
 5 1 2 3 4 
+----------------------------------------
+
+Program: Pattern11.java
+Output:
+Please enter number
+5
+0 0 0 0 0 0 
+0 1 1 1 1 1 
+0 1 2 2 2 2 
+0 1 2 3 3 3 
+0 1 2 3 4 4 
+0 1 2 3 4 5 
+------------------------------------------
+
+Program: Pattern12.java
+Output:
+Please enter number
+5
+5 5 5 5 5 5 
+5 4 4 4 4 4 
+5 4 3 3 3 3 
+5 4 3 2 2 2 
+5 4 3 2 1 1 
+5 4 3 2 1 0 
+-------------------------------------------
+
+Program: Pattern13.java
+Output:
+Please enter number
+5
+0 0 0 0 0 0 
+1 1 1 1 1 0 
+2 2 2 2 1 0 
+3 3 3 2 1 0 
+4 4 3 2 1 0 
+5 4 3 2 1 0 
+-------------------------------------------
+
+Program: Pattern14.java
+Output:
+Please enter number
+5
+5 5 5 5 5 5 
+4 4 4 4 4 5 
+3 3 3 3 4 5 
+2 2 2 3 4 5 
+1 1 2 3 4 5 
+0 1 2 3 4 5 
+-------------------------------------------
+
+Program: Pattern15.java
+Output:
+Please enter number
+5
+0 1 2 3 4 5 
+0 1 2 3 4 4 
+0 1 2 3 3 3 
+0 1 2 2 2 2 
+0 1 1 1 1 1 
+0 0 0 0 0 0 
+-------------------------------------------
+
+Program: Pattern16.java
+Output:
+Please enter number
+5
+5 4 3 2 1 0 
+5 4 3 2 1 1 
+5 4 3 2 2 2 
+5 4 3 3 3 3 
+5 4 4 4 4 4 
+5 5 5 5 5 5 
+------------------------------------------
+
+Program: Pattern17.java
+Output:
+Please enter number
+5
+0 0 0 0 0 0 
+0 1 1 1 1 0 
+0 1 2 2 1 0 
+0 1 2 2 1 0 
+0 1 1 1 1 0 
+0 0 0 0 0 0 
+------------------------------------------
+
+Program: Pattern18.java
+Output:
+Please enter number
+5
+5 5 5 5 5 5 
+5 4 4 4 4 5 
+5 4 3 3 4 5 
+5 4 3 3 4 5 
+5 4 4 4 4 5 
+5 5 5 5 5 5 

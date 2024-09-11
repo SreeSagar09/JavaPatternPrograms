@@ -26,8 +26,8 @@ public class Pattern8 {
 		Scanner scanner = new Scanner(System.in);
 		int n = scanner.nextInt();
 		System.out.println("First Pattern");
-		Pattern8.printPattern1(n);
+		printPattern1(n);
 		System.out.println("Second Pattern");
-		Pattern8.printPattern2(n);
+		printPattern2(n);
 	}
 }

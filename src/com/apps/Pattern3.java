@@ -20,6 +20,6 @@ public class Pattern3 {
 		System.out.println("Please Enter Number:");
 		Scanner scanner = new Scanner(System.in);
 		int n = scanner.nextInt();
-		Pattern3.printPattern(n);
+		printPattern(n);
 	}
 }

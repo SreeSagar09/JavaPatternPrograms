@@ -16,6 +16,6 @@ public class Pattern5 {
 		System.out.println("Please Enter Number:");
 		Scanner scanner = new Scanner(System.in);
 		int n = scanner.nextInt();
-		Pattern5.printPattern(n);
+		printPattern(n);
 	}
 }
